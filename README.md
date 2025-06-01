@@ -34,4 +34,4 @@ requirements.txt    # Python dependencies
 
 README.md
 
-LICENCE.txt         # MIT License. Feel free to use and modify.
+LICENCE       # MIT License. Feel free to use and modify.
