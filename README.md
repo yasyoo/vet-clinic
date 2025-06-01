@@ -35,10 +35,3 @@ requirements.txt    # Python dependencies
 README.md
 
 LICENCE.txt         # MIT License. Feel free to use and modify.
-
-## 🧪 Local Development
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
